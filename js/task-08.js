@@ -1,4 +1,4 @@
-const inputEl = document.querySelector(".logi m")
+const inputEl = document.querySelector("form.login-form")
 
 inputEl.addEventListener("submit", (event) => {
     event.preventDefault();
